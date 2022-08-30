@@ -1,5 +1,6 @@
 const data = [
   {
+    id: 1,
     image: "https://source.unsplash.com/WLxQvbMyfas",
     location: "Japan",
     Gmap: "https://goo.gl/maps/6PvFocYBi8qoK1zQA",
@@ -9,6 +10,7 @@ const data = [
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit a ipsa nam, minima quod explicabo fuga dolore ad eos quidem perspiciatis quisquam aliquid tempora unde voluptatum. In recusandae doloremque ab!",
   },
   {
+    id: 2,
     image: "https://source.unsplash.com/JmuyB_LibRo",
     location: "Australia",
     Gmap: "https://goo.gl/maps/zUUdse9XMjhqnQV99",
@@ -18,6 +20,7 @@ const data = [
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit a ipsa nam, minima quod explicabo fuga dolore ad eos quidem perspiciatis quisquam aliquid tempora unde voluptatum. In recusandae doloremque ab!",
   },
   {
+    id: 3,
     image: "https://source.unsplash.com/3PeSjpLVtLg",
     location: "Norway",
     Gmap: "https://goo.gl/maps/QYBeE26ahuMNwppm9",
