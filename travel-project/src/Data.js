@@ -7,7 +7,7 @@ const data = [
     title: "Mount Fuji",
     date: "01 Jan, 2020 - 14 Jan, 2020",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit a ipsa nam, minima quod explicabo fuga dolore ad eos quidem perspiciatis quisquam aliquid tempora unde voluptatum. In recusandae doloremque ab!",
+      "Mount Fuji is the tallest mountain in Japan and is known for its graceful conical form. It is the country's sacred symbol, and temples and shrines are located around and on the volcano.",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const data = [
     title: "Sydney Opera House",
     date: "01 Jun, 2020 - 14 Jun, 2020",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit a ipsa nam, minima quod explicabo fuga dolore ad eos quidem perspiciatis quisquam aliquid tempora unde voluptatum. In recusandae doloremque ab!",
+      "The Opera House is a multipurpose performing arts facility whose largest venue, the 2,679-seat Concert Hall, is host to symphony concerts, choir performances, and popular music shows. ",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const data = [
     title: "GeirangerFjord",
     date: "01 Oct, 2020 - 14 Oct, 2020",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit a ipsa nam, minima quod explicabo fuga dolore ad eos quidem perspiciatis quisquam aliquid tempora unde voluptatum. In recusandae doloremque ab!",
+      "The iconic Geirangerfjord is known for its spectacular waterfalls and deserted fjord farms high up on the steep cliffsides. The Geirangerfjord is considered one of the most beautiful fjords in the world",
   },
 ];
 

@@ -5,3 +5,39 @@
   box-sizing: border-box;
   font-family: "Roboto";
 }
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin: 0 auto;
+  background-color: rgb(242, 238, 238);
+}
+
+.content-container {
+  width: 60%;
+  margin: 10px;
+}
+.fa-solid {
+  color: red;
+
+  margin-bottom: 10px;
+}
+a {
+  text-decoration: none;
+  color: grey;
+}
+h2 {
+  margin-bottom: 10px;
+}
+h6 {
+  margin-bottom: 10px;
+}
+p {
+  font-size: smaller;
+}
