@@ -12,7 +12,7 @@ const Card = (props) => {
   return (
     <div className="container">
       <div className="card-container">
-        <div style={style} className="image-container"></div>
+        <div style={style}></div>
         <div className="content-container">
           <i className="fa-solid fa-location-dot"></i>
           <a href={props.Gmap}>{props.location}</a>
